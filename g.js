@@ -1,2 +1,1 @@
-const pair='extra';
-console.log("fff");
+console.log("yy")
